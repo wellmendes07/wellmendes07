@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Wellington Mendes
-- 👀 Estou estudando e praticando Java / HTML-CSS-Jacascript
+- 👀 Estou estudando e praticando Java / HTML-CSS-Javascript
 - 📫 Fale comigo: @wellm.ff / 85 9 9989-7222
 
 <!---
